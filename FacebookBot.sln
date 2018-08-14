@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookBot", "FacebookBot\FacebookBot.csproj", "{7576475A-D136-4454-A1C8-D4BF5A9FE5A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7576475A-D136-4454-A1C8-D4BF5A9FE5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7576475A-D136-4454-A1C8-D4BF5A9FE5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7576475A-D136-4454-A1C8-D4BF5A9FE5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7576475A-D136-4454-A1C8-D4BF5A9FE5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EDBDFEA-58B3-4804-A7F5-F10736DBFD88}
+	EndGlobalSection
+EndGlobal
